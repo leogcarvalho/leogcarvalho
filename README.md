@@ -2,7 +2,7 @@
 I've been working with QA and Software Testing since 2008.
 I'm a QA Engineer with strong experience in Test Automation using tools like:
 - Appium
-- Selenium
+- Selenium Webdriver
 - Playwright
 - Pytest
 - RestAssured
